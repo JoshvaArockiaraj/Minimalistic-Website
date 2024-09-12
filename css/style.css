@@ -1,0 +1,166 @@
+body {
+    background: #E9EFEC;
+    margin: 0;
+}
+
+.link-title {
+    text-decoration: none;
+    font-size: 24px;
+    color: #006769;
+}
+
+
+.container {
+    width: 780px;
+    margin: 0 auto;
+    background: #C4DAD2;
+    box-shadow: 0px 9px 13px 5px;
+}
+
+.header {
+    padding: 45px 0 20px 40px; 
+}
+
+.menu {
+    background: #16423C;
+    padding: 6px 0 6px 40px;
+}
+
+.menu a {
+    color: #C4DAD2;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu a:hover {
+    color: #2D9596;
+}
+
+aside {
+    float: left;
+    width: 120px;
+    padding: 30px 0 0 40px;
+}
+
+h1 {
+    margin: 0px;
+    color: #16423C;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+h2 {
+    color: #16423C;
+    font-size: 150x;
+    margin: 20px 0 5px 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.main {
+    margin: 0 0 0 180px;
+    padding: 35px 40px 30px 0;
+    color: #16423C;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    line-height: 18px;
+    text-emphasis: justify;
+}
+
+.main a:hover {
+    color: #16423C;
+}
+
+#home-image img {
+    width: 100%;
+
+}
+
+/************ Side bar ************/
+
+#harry-link {
+    color: #16423C;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+
+
+footer {
+    padding: 6px 40px 6px 40px;
+    background: #6A9C89;
+    font-family: 'Lucida Sans Unicode';
+    color: #16423C;
+    font-size: 11px;
+    text-decoration: right;
+}
+
+footer a{
+    text-decoration: none;
+    color: #16423C;
+
+}
+
+.separator {
+    color: #16423C;
+    font-size: 11px;
+}
+
+/******* About Page Styles *******/
+
+#about-page #home-image img {
+    width: 60%;
+    float: left;
+    margin-bottom: 20px;
+}
+
+#about-page #profile-info {
+    padding-top: 20px;
+    padding-right: 20px;
+    background-color: #6A9C89;
+    height: 130px;
+    text-align: center;
+    float: right;
+    width: 30%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#about-page .description {
+    clear: both;
+}
+
+/******** Contact page **********/
+
+#contact #form {
+    width: 500px;
+    box-shadow: 0px 9px 13px 5px;
+    padding: 10px 10px 10px 10px;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+#contact .page-heading {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#contact #form input {
+    width: 100%;
+    border-radius: 5px;
+    height: 20px;
+    background: #C4DAD2;
+}
+
+#contact #form #message {
+    width: 100%;
+    border-radius: 5px;
+    background: #C4DAD2;
+}
+
+#contact #form #submit {
+    height: 30px;
+    background: #16423C;
+    color: #6A9C89;
+}

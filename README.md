@@ -1,0 +1,1 @@
+Hi, This is a simple Static website built using HTML and CSS.
