@@ -1,6 +1,6 @@
 <?php ob_start();
 	if(isset($_POST['submit'])) {
-	$to = "edwin@codingfaculty.com";
+	$to = "infantjose2609@gmail.com";
 	$subject = $_POST['subject'];
 	$email = $_POST['email'];
 	$message = $_POST['message'];
